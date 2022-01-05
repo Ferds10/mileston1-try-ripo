@@ -4,14 +4,14 @@ body{
     margin: -7.5%;
 }
 h1{
-    font-size: 70px;
+    font-size: 50px;
     
 }
 .orange-color{
     color: orange;
 }
 h2{
-    font-size: ;
+    font-size:40;
 }
 h3{
         font-size: ;
@@ -20,16 +20,16 @@ h3{
 .flexible-container{
     display: flex;
     margin: 120px;
-    padding-left: 5%;
 
 }
 .half-width{
     width: 50%;
+    padding-left: 10%;
     
 }
-.half-width image{
+.half-width img{
     width: 80%;
-    padding-right: 15%;
+   
 
 }
 .link-button{
